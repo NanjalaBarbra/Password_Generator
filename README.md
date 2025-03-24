@@ -1,2 +1,2 @@
 # Password_Generator
-a password generator application usig django
+a password generator application using django
